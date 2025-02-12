@@ -46,7 +46,7 @@ Welcome to my portfolio, where I showcase my projects.
 
 ## 🛠️ Technical Skills:
  💡**Languages:** Python, SQL
-- **Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib
+💡 **Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib
 - **Tools:** Power BI, Azure, Excel, PowerPoint, Tableau, MySQL
 - **Platforms:** Jupyter Notebook, Visual Studio Code, PyCharm
 

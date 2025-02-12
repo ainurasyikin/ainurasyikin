@@ -24,5 +24,5 @@ Welcome to my portfolio, where I showcase my projects.
 ---
 
 ## 👋🏻 Connect with Me:  
-[LinkedIn](#)
+[LinkedIn](in/ainur-asyikin-9a8617213)
 

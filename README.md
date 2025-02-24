@@ -10,7 +10,7 @@ I'm **Ainur**, a data analyst with expertise in data analysis, reporting, query 
 
 
 ## 📚 Projects:
-Welcome to my portfolio, where I showcase my projects(https://github.com/ainurasyikin/Portfolio-Guide).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/ainurasyikin/Portfolio-Guide).
 
 
 
